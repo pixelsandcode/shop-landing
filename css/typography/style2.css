@@ -2,7 +2,7 @@
 
 /* 2. STYLES */
 body {
-  font-family: 'Lato', Helvetica Neue, Sans-serif;
+  font-family: IRANSansWeb, 'Lato', Helvetica Neue, Sans-serif;
   font-size: 16px;
   line-height: 28px;
   font-weight: 400;
@@ -11,7 +11,7 @@ body {
 /* 3. HEADINGS */
 h1,
 h2 {
-  font-family: 'Varela Round', Helvetica Neue, Sans-serif;
+  font-family: IRANSansWeb, 'Varela Round', Helvetica Neue, Sans-serif;
   font-weight: 400;
 }
 h1 {
@@ -68,7 +68,7 @@ strong,
   text-transform: uppercase;
 }
 .price .month {
-  font-family: 'Lato', Helvetica Neue, Sans-serif;
+  font-family: IRANSansWeb, 'Lato', Helvetica Neue, Sans-serif;
   color: #666666;
   font-size: 16px !important;
 }

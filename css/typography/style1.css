@@ -11,14 +11,14 @@
 
 /* 1. LOADING / IMPORTING FONT FACES */
 @font-face {
-  font-family: 'Lane';
+  font-family: IRANSansWeb, 'Lane';
   src: url('fonts/lanenar_Lane.woff') format('woff'), url('fonts/lanenar_Lane.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 /* 2. BODY */
 body {
-  font-family: 'Roboto', Helvetica Neue, Sans-serif;
+  font-family: IRANSansWeb, 'Roboto', Helvetica Neue, Sans-serif;
   font-size: 16px;
   line-height: 28px;
   font-weight: 300;
@@ -27,7 +27,7 @@ body {
 /* 3. HEADINGS */
 h1,
 h2 {
-  font-family: 'Lane', Roboto, Helvetica Neue, Sans-serif;
+  font-family: IRANSansWeb, 'Lane', Roboto, Helvetica Neue, Sans-serif;
   font-weight: normal;
 }
 h1 {
@@ -84,7 +84,7 @@ strong,
   text-transform: uppercase;
 }
 .price .month {
-  font-family: 'Roboto', Helvetica Neue, Sans-serif;
+  font-family: IRANSansWeb, 'Roboto', Helvetica Neue, Sans-serif;
   color: #313131;
   font-size: 16px !important;
 }

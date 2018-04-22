@@ -75,7 +75,7 @@ html {
 
 body {
 	direction: rtl;
-	font-family: Tahoma, Helvetica Neue, Sans-serif;
+	font-family: IRANSansWeb, Tahoma, Helvetica Neue, Sans-serif;
 	font-size: 16px;
 	line-height: 28px;
 	font-weight: 300;
@@ -211,7 +211,7 @@ li {
 /* HEADINGS */
 h1,
 h2 {
-	font-family: Tahoma, Helvetica Neue, Sans-serif;
+	font-family: IRANSansWeb, Tahoma, Helvetica Neue, Sans-serif;
 	font-weight: 400;
 }
 
@@ -290,7 +290,7 @@ strong,
 }
 
 .price .month {
-	font-family: Tahoma, Helvetica Neue, Sans-serif;
+	font-family: IRANSansWeb, Tahoma, Helvetica Neue, Sans-serif;
 	color: #666666;
 	font-size: 16px !important;
 }
